@@ -1,0 +1,11 @@
+- chatbot_pycharm/
+  - .env
+  - app/
+    - __init__.py
+    - models.py
+    - routers.py
+    - services.py
+    - gpt3_integration.py
+  - main.py
+  - db.py
+  - requirements.txt
